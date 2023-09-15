@@ -1,2 +1,3 @@
-# my_first_repository
-Course tasks
+# Hello! Welcome
+
+This is a test to learn how to use GitHub
